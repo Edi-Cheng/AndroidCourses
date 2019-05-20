@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">About Me</string>
+    <string name="yellow_star">Yellow star</string>
+    
+    <string name="bio">We are science communication and content experts, with a team of writing, editing, data, design and publishing professionals.
+
+Find us on procurement panels, including:
+
+Digital Transformation Agency (DTA) — Digital marketplace provider in content development, writing and editing, data science and visualisation, web design and development, interactive displays
+Department of Human Services (DHS) — Creative and digital communication services panel in strategic communication, authoring and editorial, graphic design, web design, accessibility review
+National Health and Medical Research Council (NHMRC) — Development and presentation of evidence-based health advice</string><string name="what_is_your_nickname">What is your Nickname?</string><string name="done">Done</string>
+</resources>
